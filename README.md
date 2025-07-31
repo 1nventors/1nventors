@@ -2,7 +2,7 @@
 
 **`Always working hard (Data/Developer)`**
 
-I'm just a regular guy who has always been fascinated by technology. I love building databases and small projects that I find interesting or fun to try. Everything you see here was made from scratch — I always give my best. I hope that one day I can create software or work with data in a way that truly helps people.
+I'm just a regular guy who has always been fascinated by technology, I love building databases and small projects that I find interesting or fun to try, everything you see here was made from scratch — I always give my best. I hope that one day I can create software or work with data in a way that truly helps people.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/israel-pereira-batista-belchior-de-lima-42b9b9207/?locale=en_US"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
@@ -25,7 +25,7 @@ I'm just a regular guy who has always been fascinated by technology. I love buil
 
 <br><br>
 
-### 🧪 Languages That I'm Exploring
+### 🛠️ Languages I'm Familiar With
 
 <img align="left" width="30px" alt="Java" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 <img align="left" width="30px" alt="JavaScript" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -46,11 +46,11 @@ I'm just a regular guy who has always been fascinated by technology. I love buil
 <details>
   <summary><h3>👨‍💻 1nventors Coding Journey</h3></summary>
 
-Since I was a kid, I was always curious about how technology works. As the world became more digital, with things like Wi-Fi, Bluetooth, and smart devices, my interest grew even more.
+Since I was a kid, I was always curious about how technology works, as the world became more digital, with things like Wi-Fi, Bluetooth, and smart devices, my interest grew even more.
 
-That curiosity eventually led me into the world of gaming. I fell in love with the experiences that games provided, and one day I discovered that I could actually create games too. That realization changed everything — I knew I wanted to learn programming.
+That curiosity eventually led me into the world of gaming, I fell in love with the experiences that games provided, and one day I discovered that I could actually create games too, that realization changed everything — I knew I wanted to learn programming.
 
-I started studying, mostly on my own, and eventually found freeCodeCamp. Their courses helped me a lot — they gave me structure, motivation, and confidence. I’m extremely grateful to them and hope that someday I can give back to the community just like they helped me.
+I started studying, mostly on my own, and eventually found freeCodeCamp, their courses helped me a lot — they gave me structure, motivation, and confidence. I’m extremely grateful to them and hope that someday I can give back to the community just like they helped me.
 
 Today, I’m still learning, still building, and still pushing forward with every line of code.
 
