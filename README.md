@@ -12,8 +12,6 @@ I'm just a regular guy who has always been fascinated by technology. I love buil
 <p align="center">
   <a href="https://github.com/1nventors?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars" src="https://custom-icon-badges.demolab.com/github/stars/1nventors?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/1nventors/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/1nventors-profile-views"/></a>
 </p>
 
 ---
