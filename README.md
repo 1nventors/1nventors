@@ -5,13 +5,10 @@
 I'm just a regular guy who has always been fascinated by technology, I love building databases and small projects that I find interesting or fun to try, everything you see here was made from scratch — I always give my best. I hope that one day I can create software or work with data in a way that truly helps people.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/israel-pereira-batista-belchior-de-lima-42b9b9207/?locale=en_US"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
-
-<p align="center">
-  <a href="https://github.com/1nventors?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars" src="https://custom-icon-badges.demolab.com/github/stars/1nventors?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://www.linkedin.com/in/israel-pereira-batista-belchior-de-lima-42b9b9207/?locale=en_US">
+    <img width="32px" alt="LinkedIn" title="LinkedIn"
+      src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
+  </a>
 </p>
 
 ---
