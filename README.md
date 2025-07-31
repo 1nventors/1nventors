@@ -2,7 +2,7 @@
 
 ***`Always working hard (Data/Developer)`***
 
-<p align="center">
+<p align="left">
 I'm just a regular guy who has always been fascinated by technology, I love building databases and small projects that I find interesting or fun to try, everything you see here was made from scratch — I always give my best. I hope that one day I can create software or work with data in a way that truly helps people.
 </p>
 
