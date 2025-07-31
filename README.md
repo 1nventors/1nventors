@@ -16,7 +16,7 @@ I'm just a regular guy who has always been fascinated by technology, I love buil
 
 ---
 
-### 🧰 Languages That I Use
+### 🧰 Languages & Tools That I Use
 
 <img align="left" width="30px" alt="PostgreSQL" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align="left" width="30px" alt="Bash" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
