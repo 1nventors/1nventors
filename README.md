@@ -46,14 +46,12 @@ I'm just a regular guy who has always been fascinated by technology, I love buil
 
 ---
 
+<div align="center">
+
 <h3>👨‍💻 1nventors Coding Journey</h3>
 
-<p align="center">
-Since I was a kid, I was always curious about how technology works, as the world became more digital, with things like Wi-Fi, Bluetooth, and smart devices, my interest grew even more.
-  
-That curiosity eventually led me into the world of gaming, I fell in love with the experiences that games provided, and one day I discovered that I could actually create games too, that realization changed everything — I knew I wanted to learn programming.
-  
-I started studying, mostly on my own, and eventually found freeCodeCamp, their courses helped me a lot — they gave me structure, motivation, and confidence. I’m extremely grateful to them and hope that someday I can give back to the community just like they helped me.
-  
-Today, I’m still learning, still building, and still pushing forward with every line of code.
+<p>
+Since I was a kid, I was always curious about how technology works. As the world became more digital, with things like Wi-Fi, Bluetooth, and smart devices, my interest grew even more. That curiosity eventually led me into the world of gaming. I fell in love with the experiences that games provided — and one day I discovered that I could actually create games too. That realization changed everything — I knew I wanted to learn programming. I started studying, mostly on my own, and eventually found freeCodeCamp. Their courses helped me a lot — they gave me structure, motivation, and confidence. I’m extremely grateful to them and hope that someday I can give back to the community just like they helped me. Today, I’m still learning, still building, and still pushing forward with every line of code.
 </p>
+
+</div>
