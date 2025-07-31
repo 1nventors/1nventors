@@ -7,7 +7,7 @@ I'm just a regular guy who has always been fascinated by technology, I love buil
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/israel-pereira-batista-belchior-de-lima-42b9b9207/?locale=en_US">
+  <a href="https://www.linkedin.com/in/israel-belchior/?locale=en_US">
     <img width="32px" alt="LinkedIn" title="LinkedIn"
       src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
   </a>
