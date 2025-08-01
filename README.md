@@ -35,7 +35,7 @@ I'm just a regular guy who has always been fascinated by technology, I love buil
 
 <p align="center">
   <img width="30px" alt="COBOL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cobol/cobol-original.svg" />
-  <img width="30px" alt="Assembly" src="https://user-images.githubusercontent.com/103866722/194773833-8571f323-4fa8-4036-a51c-57b9d29c683b.svg" />
+  <img width="30px" alt="Assembly" src="https://cdn.cybrhome.com/media/topic/live/icon/topic_icon_assembly-language_8923f1.png" />
 </p>
 
 ---
