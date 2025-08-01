@@ -15,11 +15,12 @@ I'm just a regular guy who has always been fascinated by technology, I love buil
   <img width="30px" alt="Bash" src="https://bashlogo.com/img/symbol/png/full_colored_light.png" />
   <img width="30px" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width="30px" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img width="30px" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
 
 ---
 
-<h3 align="center">🛠️ Languages I'm Familiar With</h3>
+<h3 align="center">🛠️ Some Knowledge In</h3>
 
 <p align="center">
   <img width="30px" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
