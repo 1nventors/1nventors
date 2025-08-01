@@ -62,16 +62,15 @@ Since I was a kid, I was always curious about how technology works. As the world
 
 <div align="center">
   
-<h3> 📫 Contact </h3>
+<h3>📫 Contact</h3>
 
- <p>
- Feel free to reach me through LinkedIn or check my academic and personal projects here on GitHub.
-
-   <a href="https://www.linkedin.com/in/israel-belchior/?locale=en_US">
-     <img width="32px" alt="LinkedIn" title="LinkedIn"
+<p>
+  Feel free to reach me through  
+  <a href="https://www.linkedin.com/in/israel-belchior/?locale=en_US" style="margin-left: 4px;">
+    <img width="32px" alt="LinkedIn" title="LinkedIn" style="vertical-align: middle;"
       src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
-   </a>
- </p>
+  </a>
+  Or check my academic and personal projects here on GitHub.
+</p>
 
 </div>
-
