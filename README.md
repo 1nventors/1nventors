@@ -64,3 +64,10 @@ Since I was a kid, I was always curious about how technology works. As the world
 </p>
 
 </div>
+
+---
+
+### 📫 Contact
+
+Feel free to reach me through [LinkedIn](https://www.linkedin.com/in/israel-belchior/?locale=en_US) or check my academic and personal projects here on GitHub.
+
