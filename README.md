@@ -41,8 +41,8 @@ I'm just a regular guy who has always been fascinated by technology, I love buil
 <h3 align="center">🧪 Technical Interests</h3>
 
 <p align="center">
-  <img width="30px" alt="COBOL" title="COBOL" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Blue_cobol_logo.png" />
-  <img width="30px" alt="Assembly" title="Assembly" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Computer_chip_icon.png" />
+  <img width="30px" alt="COBOL" title="COBOL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cobol/cobol-original.svg" />
+  <img width="30px" alt="Assembly" title="Assembly" src="https://user-images.githubusercontent.com/103866722/194773833-8571f323-4fa8-4036-a51c-57b9d29c683b.svg" />
 </p>
 
 ---
