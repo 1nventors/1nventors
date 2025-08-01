@@ -38,6 +38,15 @@ I'm just a regular guy who has always been fascinated by technology, I love buil
 
 ---
 
+<h3 align="center">🧪 Technical Interests</h3>
+
+<p align="center">
+  <img width="30px" alt="COBOL" title="COBOL" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Blue_cobol_logo.png" />
+  <img width="30px" alt="Assembly" title="Assembly" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Computer_chip_icon.png" />
+</p>
+
+---
+
 <h3 align="center">📈 GitHub Stats</h3>
 
 <p align="center">
