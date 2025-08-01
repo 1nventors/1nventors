@@ -34,8 +34,9 @@ I'm just a regular guy who has always been fascinated by technology, I love buil
 <h3 align="center">🧪 Technical Interests</h3>
 
 <p align="center">
-  <img width="30px" alt="COBOL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cobol/cobol-original.svg" />
-  <img width="30px" alt="Assembly" src="https://user-images.githubusercontent.com/103866722/194773833-8571f323-4fa8-4036-a51c-57b9d29c683b.svg" />
+  <img width="30px" alt="COBOL" src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/ffffff/external-cobol-programming-and-coding-flatart-icons-outline-flatarticons.png" />
+
+  <img width="30px" alt="Assembly" src="https://img.icons8.com/ios-filled/50/ffffff/microchip.png" />
 </p>
 
 ---
