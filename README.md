@@ -6,13 +6,6 @@
 I'm just a regular guy who has always been fascinated by technology, I love building databases and small projects that I find interesting or fun to try, everything you see here was made from scratch — I always give my best. I hope that one day I can create software or work with data in a way that truly helps people.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/israel-belchior/?locale=en_US">
-    <img width="32px" alt="LinkedIn" title="LinkedIn"
-      src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
-  </a>
-</p>
-
 ---
 
 <h3 align="center">🧰 Languages & Tools That I Use</h3>
@@ -69,5 +62,12 @@ Since I was a kid, I was always curious about how technology works. As the world
 
 ### 📫 Contact
 
-Feel free to reach me through [LinkedIn](https://www.linkedin.com/in/israel-belchior/?locale=en_US) or check my academic and personal projects here on GitHub.
+Feel free to reach me through LinkedIn or check my academic and personal projects here on GitHub.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/israel-belchior/?locale=en_US">
+    <img width="32px" alt="LinkedIn" title="LinkedIn"
+      src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
+  </a>
+</p>
 
