@@ -12,7 +12,7 @@ I'm just a regular guy who has always been fascinated by technology, I love buil
 
 <p align="center">
   <img width="30px" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img width="30px" alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
+  <img width="30px" alt="Bash" src="https://bashlogo.com/img/symbol/png/full_colored_light.png" />
   <img width="30px" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width="30px" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </p>
@@ -34,8 +34,8 @@ I'm just a regular guy who has always been fascinated by technology, I love buil
 <h3 align="center">🧪 Technical Interests</h3>
 
 <p align="center">
-  <img width="30px" alt="COBOL" src="https://logodix.com/logo/2100252.jpg" />
-  <img width="30px" alt="Assembly" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQdA_2Vi350-blMARDU4bOdXkXaanfyYmPVg&s" />
+  <img width="30px" alt="COBOL" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjErMOKZYzFKZ79yMMW7MirqZnKhbxDeZTLA&s" />
+  <img width="30px" alt="Assembly" src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" />
 </p>
 
 ---
