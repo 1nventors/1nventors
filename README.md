@@ -3,7 +3,7 @@
 ***`Always working hard (Data/Developer)`***
 
 <p align="left">
-I'm just a regular guy who has always been fascinated by technology, I love building databases and small projects that I find interesting or fun to try, everything you see here was made from scratch — I always give my best. I hope that one day I can create software or work with data in a way that truly helps people.
+I'm just a normal guy who has always been fascinated by technology, I love building databases and small projects that I find interesting or fun to try, everything you see here was made from scratch — I always give my best. I hope that one day I can create software or work with data in a way that truly helps people.
 </p>
 
 ---
@@ -54,7 +54,7 @@ I'm just a regular guy who has always been fascinated by technology, I love buil
 <h3>👨‍💻 1nventors Coding Journey</h3>
 
 <p align="left">
-Since I was a kid, I was always curious about how technology works. As the world became more digital, with things like Wi-Fi, Bluetooth, and smart devices, my interest grew even more. That curiosity eventually led me into the world of gaming. I fell in love with the experiences that games provided — and one day I discovered that I could actually create games too. That realization changed everything — I knew I wanted to learn programming. I started studying, mostly on my own, and eventually found freeCodeCamp. Their courses helped me a lot — they gave me structure, motivation, and confidence. I’m extremely grateful to them and hope that someday I can give back to the community just like they helped me. Today, I’m still learning, still building, and still pushing forward with every line of code.
+Since I was a kid, I was always curious about how technology works, as the world became more digital, with things like Wi-Fi, Bluetooth, and smart devices, my interest grew even more, that curiosity eventually led me into the world of gaming. I fell in love with the experiences that games provided — and one day I discovered that I could actually create games too, this realization changed everything — I knew I wanted to learn programming, I started studying, mostly on my own, and eventually found freeCodeCamp, their courses helped me a lot — they gave me structure, motivation, and confidence. I’m extremely grateful to them and hope that someday I can give back to the community just like they helped me. Today, I’m still learning, still building, and still pushing forward with every line of code.
 </p>
 
 </div>
