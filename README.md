@@ -2,12 +2,6 @@
 
 ***`Always working hard (Data/Developer)`***
 
-<p align="left">
-I'm just a normal guy who has always been fascinated by technology, I love building databases and small projects that I find interesting or fun to try, everything you see here was made from scratch — I always give my best. I hope that one day I can create software or work with data in a way that truly helps people.
-</p>
-
----
-
 <div align="center">
 
 <h3>👨‍💻 1nventors Coding Journey</h3>
@@ -27,6 +21,14 @@ Since I was a kid, I was always curious about how technology works, as the world
 <p>
   Feel free to reach me through LinkedIn or check my academic and personal projects here on GitHub.
 </p>
+<br>
+
+<a href="https://www.linkedin.com/in/israel-belchior/?locale=en_US">
+  <img width="32px" alt="LinkedIn" title="LinkedIn"
+    src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
+</a>
+
+</div>
 
 ---
 
@@ -67,15 +69,3 @@ Since I was a kid, I was always curious about how technology works, as the world
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=1nventors&show_icons=true&theme=shades-of-purple" />
 </p>
-
-
----
-
-<br>
-
-<a href="https://www.linkedin.com/in/israel-belchior/?locale=en_US">
-  <img width="32px" alt="LinkedIn" title="LinkedIn"
-    src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
-</a>
-
-</div>
