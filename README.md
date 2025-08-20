@@ -35,7 +35,6 @@ I'm just a normal guy who has always been fascinated by technology, I love build
 <h3 align="center">🧪 Technical Interests</h3>
 
 <p align="center">
-  <img width="35px" alt="COBOL" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3o30yY50VFE261lEfOsA6LUoXY-NQIAL-g&s" />
   <img width="40px" alt="Assembly" src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" />
 </p>
 
