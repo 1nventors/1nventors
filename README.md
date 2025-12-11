@@ -56,13 +56,6 @@ Since I was a kid, I was always curious about how technology works, as the world
 
 ---
 
-<h3 align="center">🧪 Technical Interests</h3>
-
-<p align="center">
-  <img width="40px" alt="Assembly" src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" />
-</p>
-
----
 
 <h3 align="center">📈 GitHub Stats</h3>
 
