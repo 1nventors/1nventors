@@ -60,5 +60,5 @@ Since I was a kid, I was always curious about how technology works, as the world
 <h3 align="center">📈 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1nventors&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1nventors&show_icons=true&theme=shades-of-purple" />
 </p>
