@@ -7,7 +7,9 @@
 <h3>👨‍💻 Coding Journey</h3>
 
 <p align="left">
-Since I was a kid, I was always curious about how technology works, as the world became more digital, with things like Wi-Fi, Bluetooth, and smart devices, my interest grew even more, that curiosity eventually led me into the world of gaming. I fell in love with the experiences that games provided — and one day I discovered that I could actually create games too, this realization changed everything — I knew I wanted to learn programming, I started studying, mostly on my own, and eventually found freeCodeCamp, their courses helped me a lot — they gave me structure, motivation, and confidence. I’m extremely grateful to them and hope that someday I can give back to the community just like they helped me. Today, I’m still learning, still building, and still pushing forward with every line of code.
+My journey started with thousands of hours in Minecraft and Team Fortress 2, which eventually turned into a "how does this actually work?". I began as a self-taught dev, and freeCodeCamp was the game-changer that gave me the structure and confidence I needed to turn that curiosity into a career—I'll always be grateful to their community.
+
+Today, I’m a Solutions Engineer Intern at Alcatel-Lucent Enterprise, diving into networking and cybersecurity, while also researching GenAI & NLP at UFABC for the MCTest project. From building blocks in-game to building LLMOps pipelines and secure infrastructures, I’m still pushing forward with every line of code.
 </p>
 
 </div>
