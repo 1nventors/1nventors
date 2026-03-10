@@ -7,7 +7,7 @@
 <h3>👨‍💻 Coding Journey</h3>
 
 <p align="left">
-My journey started with thousands of hours in Minecraft and TF2, which eventually turned into a "how does this actually work?" obsession. I began as a self-taught dev, and freeCodeCamp was the game-changer that gave me the structure and confidence I needed to turn that curiosity into a career—I'll always be grateful to their community.
+My journey started with thousands of hours in Minecraft and Team Fortress 2, which eventually turned into a "how does this actually work?" obsession and also helped me to learn English. Then I began as a self-taught dev, and freeCodeCamp was the game-changer that gave me the structure and confidence I needed to turn that curiosity into a career—I'll always be grateful to their community.
 Today, I’m a Solutions Engineer Intern at Alcatel-Lucent Enterprise, diving into networking and cybersecurity, while also researching GenAI & NLP at UFABC for the MCTest project. From building blocks in-game to building LLMOps pipelines and secure infrastructures, I’m still pushing forward with every line of code.
 </p>
 
